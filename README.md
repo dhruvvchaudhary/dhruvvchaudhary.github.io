@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: MS Power BI, SQL, MS Excel, Data Visualization, 
+#### Technical Skills: MS Power BI, SQL, MS Excel, Data Visualization, Statistical Analysis
 
 ## Education
 - B.Tech | Medi-Caps University (_June 2022_)								       		
